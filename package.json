@@ -1,17 +1,21 @@
 {
-  "name": "taobao2notifier",
-  "version": "0.0.1",
+  "name": "xianyu.watcher",
+  "version": "0.2.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
-  "author": "",
-  "license": "ISC",
+  "author": {
+    "name": "RoberTu",
+    "email": "robertu0717@gmail.com",
+    "url": "https://github.com/RoberMac"
+  },
+  "license": "MIT",
   "dependencies": {
     "cheerio": "^0.22.0",
+    "colors": "^1.1.2",
     "iconv-lite": "^0.4.13",
-    "lodash.isequal": "^4.4.0",
     "node-notifier": "^4.6.1",
     "open": "0.0.5",
     "request": "^2.75.0"
