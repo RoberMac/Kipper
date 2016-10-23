@@ -19,7 +19,7 @@ const REQUEST_OPTIONS = {
   priceStart: 2000,
   priceEnd: 3300,
 };
-const REQUEST_INTERVAL = 1000 * 60 * 3; // 2min
+const REQUEST_INTERVAL = 1000 * 60 * 1;
 
 
 // Exports
