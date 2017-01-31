@@ -1,6 +1,6 @@
 {
   "name": "Kipper",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -16,6 +16,7 @@
     "cheerio": "^0.22.0",
     "colors": "^1.1.2",
     "iconv-lite": "^0.4.13",
+    "lodash": "^4.17.4",
     "node-notifier": "^4.6.1",
     "open": "0.0.5",
     "request": "^2.75.0"
